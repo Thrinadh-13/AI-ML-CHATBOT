@@ -24,11 +24,11 @@ This project is a conversational AI chatbot developed using Rasa Open Source. It
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thrinadh-13/Chatbot_for_Personalized_Learning
+   git clone https://github.com/Thrinadh-13/AI-ML-CHATBOT
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PythonProject2
+   cd AI-ML-CHATBOT
    ```
 3. Create and activate a virtual environment:
    ```bash
